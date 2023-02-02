@@ -71,5 +71,4 @@ import CommunityIcon from './icons/IconCommunity.vue';
     自动引入支持，默认配置自动引入vue相关导出
   </WelcomeItem>
 
-
 </template>
