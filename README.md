@@ -8,3 +8,6 @@
 - [ ] 没有计划支持拼写检查
 - [ ] 没有计划支持提交检查
 
+
+## 感谢
+https://github.com/ElanYoung/vite-vue-js-starter-template
