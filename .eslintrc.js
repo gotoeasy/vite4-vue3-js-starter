@@ -66,5 +66,6 @@ module.exports = defineConfig({
         max: 1, // 空行最多不能超过1行(多个空行则合并)
       },
     ],
+    "vue/multi-word-component-names": "off",
   },
 });
